@@ -94,7 +94,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     com.android.future.usb.accessory \
     SamsungServiceMode \
-    Torch
+    OmniTorch
 
 # Filesystem management tools
 PRODUCT_PACKAGES += \
