@@ -23,6 +23,7 @@ PRODUCT_AAPT_PREF_CONFIG := hdpi
 
 # NovaThor Settings
 PRODUCT_PACKAGES += \
+    CMFileManager \
     NovaThorSettings
 
 # Graphics
@@ -94,7 +95,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     com.android.future.usb.accessory \
     SamsungServiceMode \
-    Torch
+    OmniTorch
 
 # Filesystem management tools
 PRODUCT_PACKAGES += \
